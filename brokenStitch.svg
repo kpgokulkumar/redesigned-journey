@@ -1,29 +1,30 @@
-<?xml version="1.0" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
- "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
-<svg version="1.0" xmlns="http://www.w3.org/2000/svg"
- width="90.000000pt" height="90.000000pt" viewBox="0 0 90.000000 90.000000"
- preserveAspectRatio="xMidYMid meet">
+<?xml version="1.0" ?>
 
-<g transform="translate(0.000000,90.000000) scale(0.100000,-0.100000)"
-fill="#000000" stroke="none">
-<path d="M585 821 c-50 -23 -129 -104 -150 -153 -29 -70 -13 -152 28 -146 20
-3 22 8 22 65 l0 63 63 62 c60 60 64 63 112 63 43 0 54 -5 82 -33 28 -28 33
--39 33 -82 0 -48 -3 -52 -63 -112 l-62 -63 -63 0 c-57 0 -62 -2 -65 -22 -3
--17 3 -26 23 -33 66 -25 136 -2 209 68 83 80 104 156 67 237 -22 48 -44 69
--94 90 -48 20 -93 19 -142 -4z"/>
-<path d="M304 767 c-3 -8 -4 -41 -2 -73 3 -55 5 -59 28 -59 24 0 25 2 25 70 0
-65 -2 70 -23 73 -12 2 -24 -3 -28 -11z"/>
-<path d="M124 585 c-14 -36 3 -46 73 -43 65 3 68 4 68 28 0 24 -3 25 -68 28
--53 2 -68 0 -73 -13z"/>
-<path d="M225 461 c-22 -10 -61 -41 -87 -67 -77 -80 -95 -150 -59 -229 22 -48
-44 -69 94 -90 75 -31 143 -12 221 63 75 73 102 149 76 217 -7 20 -16 26 -33
-23 -20 -3 -22 -8 -22 -65 l0 -63 -63 -62 c-60 -60 -64 -63 -112 -63 -43 0 -54
-5 -82 33 -28 28 -33 39 -33 82 0 48 3 52 63 112 l62 63 63 0 c57 0 62 2 65 22
-6 43 -82 57 -153 24z"/>
-<path d="M634 345 c-14 -36 3 -46 73 -43 65 3 68 4 68 28 0 24 -3 25 -68 28
--53 2 -68 0 -73 -13z"/>
-<path d="M544 257 c-3 -8 -4 -41 -2 -73 3 -55 5 -59 28 -59 24 0 25 2 25 70 0
-65 -2 70 -23 73 -12 2 -24 -3 -28 -11z"/>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg width="800px" height="800px" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+
+<title/>
+
+<g id="Complete">
+
+<g id="upload">
+
+<g>
+
+<path d="M3,12.3v7a2,2,0,0,0,2,2H19a2,2,0,0,0,2-2v-7" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+
+<g>
+
+<polyline data-name="Right" fill="none" id="Right-2" points="7.9 6.7 12 2.7 16.1 6.7" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+
+<line fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" x1="12" x2="12" y1="16.3" y2="4.8"/>
+
 </g>
+
+</g>
+
+</g>
+
+</g>
+
 </svg>
