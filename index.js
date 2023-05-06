@@ -20,6 +20,8 @@ import { ReactComponent as skipStitch } from './skipStitch.svg';
 import { ReactComponent as specOff } from './specOff.svg';
 import { ReactComponent as styleSize } from './styleSize.svg';
 import { ReactComponent as trimCut } from './trimCut.svg';
+import { ReactComponent as uncutLoose } from './uncutLoose.svg';
+
 // import other icons here
 
 export const RedJourney = {
